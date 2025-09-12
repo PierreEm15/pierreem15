@@ -1,7 +1,6 @@
 <h1 align="center" style="color:#1E90FF;">👋 Hi there, I'm Pierre Emeric Anrai</h1>
-
 <p align="center">
-  <em>Data Scientist Junior, passionné par l’IA, le Machine Learning et l’Analyse de données.<br>
+  <em>Data Scientist Junior, passionné par l'IA, le Machine Learning et l'Analyse de données.<br>
   Toujours en quête d'apprentissage et de nouveaux défis 🚀</em>
 </p>
 
@@ -15,14 +14,12 @@
 <img src="https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white" /> 
 <img src="https://img.shields.io/badge/-Jupyter-F37626?logo=jupyter&logoColor=white" /> 
 <img src="https://img.shields.io/badge/-SQL-4479A1?logo=postgresql&logoColor=white" />
-
 <br>
 
 **Machine Learning & IA:**  
 <img src="https://img.shields.io/badge/-Scikit--learn-F7931E?logo=scikitlearn&logoColor=white" /> 
 <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white" /> 
 <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white" />
-
 <br>
 
 **Développement & Outils:**  
@@ -53,14 +50,18 @@
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pierreem15&show_icons=true&theme=tokyonight" alt="GitHub stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pierreem15&layout=compact&theme=tokyonight" alt="Most used languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pierreem15&theme=tokyonight" alt="GitHub streak" />
-</p>
+<table align="center">
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=pierreem15&show_icons=true&theme=tokyonight" alt="GitHub stats" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pierreem15&layout=compact&theme=tokyonight" alt="Most used languages" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=pierreem15&theme=tokyonight" alt="GitHub streak" />
+    </td>
+  </tr>
+</table>
