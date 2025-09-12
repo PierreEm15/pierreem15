@@ -1,4 +1,4 @@
-<h1 align="center" style="color: #1E90FF;">Hi there, I'm Pierre Emeric Anrai 👋</h1>
+<h1 align="center" style="color:#1E90FF;">👋 Hi there, I'm Pierre Emeric Anrai</h1>
 
 <p align="center">
   <em>Data Scientist Junior, passionné par l’IA, le Machine Learning et l’Analyse de données.<br>
@@ -9,7 +9,6 @@
 
 ### 🛠️ Tech Stack
 
-<!-- Langages & Data -->
 **Langages & Data:**  
 <img src="https://img.shields.io/badge/-Python-blue?logo=python&logoColor=white" /> 
 <img src="https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white" /> 
@@ -19,7 +18,6 @@
 
 <br>
 
-<!-- Machine Learning & IA -->
 **Machine Learning & IA:**  
 <img src="https://img.shields.io/badge/-Scikit--learn-F7931E?logo=scikitlearn&logoColor=white" /> 
 <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white" /> 
@@ -27,7 +25,6 @@
 
 <br>
 
-<!-- Développement & Outils -->
 **Développement & Outils:**  
 <img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white" /> 
 <img src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white" /> 
@@ -39,7 +36,7 @@
 ### 🌐 Connect with me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/pierre-emeric-anrai/" target="_blank">
+  <a href="https://www.linkedin.com/in/-pierre-emeric-anrai/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="35" width="35" />
   </a>
   &nbsp;
